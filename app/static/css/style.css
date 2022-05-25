@@ -16,7 +16,7 @@ main {
 }
 
 .navbar-nav {
-    flex-direction: row!important;
+    flex-direction: row !important;
 }
 
 .nac-color {
@@ -34,7 +34,7 @@ main {
     background: #ee6c4d;
     margin-top: 6px;
     opacity: 0;
-    transform: translateY(0px);
+    transform: translateY(12px);
     transition: all 0.3s ease-in-out;
 }
 
